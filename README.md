@@ -2,5 +2,4 @@
 please open files from draw.io program 
 
 
-
 //Lütfen dosyaları draw.io programı üzeinde açın.
